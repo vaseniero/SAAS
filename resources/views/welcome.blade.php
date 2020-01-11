@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Sales & Marketing
                 </div>
 
                 <div class="links">
